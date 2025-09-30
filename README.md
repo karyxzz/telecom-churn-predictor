@@ -199,12 +199,3 @@ This solution enables telecom companies to:
 - **Features**: 19 original features expanded to 26 engineered features
 - **Target Distribution**: Imbalanced dataset with minority churn class
 
-## 📜 License
-
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-**Karuna** - Data Engineer at bi3 technologies
-- GitHub: [@karyxzz](https://github.com/karyxzz)
-- Project Link: [Telecom Churn Predictor](https://github.com/karyxzz/telecom-churn-predictor)
